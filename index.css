@@ -1,0 +1,395 @@
+bodY{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ background-color: #f0f0f0;
+ margin: 0;
+ padding: 0;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: 25px;
+    text-align: center;
+}
+/*HEADER*/
+header {
+ background-color: #000000;
+ color: #fff;
+ padding: 20px;
+}
+
+nav ul {
+ list-style: none;
+ margin: 0;
+ padding: 0;
+ display: flex;
+ align-items: center;
+}
+
+nav li {
+ margin-right: 20px;
+ align-items: center;
+}
+
+
+a{
+ display:block;
+ padding: 10px;
+ background-color: #ffffff;
+ color: #000000;
+ text-align: center;
+ text-decoration: none;
+ border-radius: 50px;
+ width: 150px;
+ margin: 0 auto;
+ margin-top: 5px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;
+}
+
+nav a:hover {
+ border-bottom: 2px solid #fff;
+}
+/*BEM VINDOS*/
+.bemvindos h1{
+    font-size: 30px;
+    text-align: center;
+}
+/*PRODUTOS*/
+.titprodutos{
+    text-align: center;
+    color: #000000;
+    margin-top: 40px;
+}
+    .container1 {
+        display: flex;
+        text-align: center;
+    }
+
+    .c1 {
+        border: solid 3px #000000;
+        width: 300px;
+        height: 500px;
+        display: flex;
+        flex-direction: row;
+        justify-content: start;
+        align-items: start;
+        border-radius: 0px;
+        margin-left: 100px;
+        margin-top: 20px;
+    }
+    .img1{
+        width: 1000px;
+        margin-left: 00px;
+        
+    }
+
+    .protit1{
+        text-align: center;
+        font-size: 15px;
+    }
+    .prodes1{
+        text-align: center;
+    }
+    .propre1{
+        font-family:initial;
+        text-align: center;
+    }
+
+
+
+.c2{
+    border: solid 3px #000000;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    border-radius: 0px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.img2{
+    width: 1000px;
+    margin-left: 00px;
+    
+}
+.protit2{
+    text-align: center;
+    font-size: 15px;
+}
+.prodes2{
+    text-align: center;
+}
+.propre2{
+    font-family:initial;
+    text-align: center;
+}
+
+
+
+.c3{
+    border: solid 3px #000000;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    border-radius: 0px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.img3{
+    width: 1000px;
+    margin-left: 00px;
+    
+}
+.protit3{
+    text-align: center;
+    font-size: 15px;
+}
+.prodes3{
+    text-align: center;
+}
+.propre3{
+    font-family:initial;
+    text-align: center;
+}
+
+
+
+.c4{
+    border: solid 3px #000000;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    border-radius: 0px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.img4{
+    width: 1000px;
+    margin-left: 00px;
+    
+}
+.protit4{
+    text-align: center;
+    font-size: 15px;
+}
+.prodes4{
+    text-align: center;
+}
+.propre4{
+    font-family:initial;
+    text-align: center;
+}
+
+.c5{
+    border: solid 3px #000000;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    border-radius: 0px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.img5{
+    width: 1000px;
+    margin-left: 00px;
+    
+}
+.protit5{
+    text-align: center;
+    font-size: 15px;
+}
+.prodes5{
+    text-align: center;
+}
+.propre5{
+    font-family:initial;
+    text-align: center;
+}
+
+
+
+
+
+.container2 {
+    display:flex;
+    text-align: center;
+}
+.c6{
+    border: solid 3px #000000;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    border-radius: 0px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.img6{
+    width: 1000px;
+    margin-left: 00px;
+    
+}
+.protit6{
+    text-align: center;
+    font-size: 15px;
+}
+.prodes6{
+    text-align: center;
+}
+.propre6{
+    font-family:initial;
+    text-align: center;
+}
+
+
+
+.c7{
+    border: solid 3px #000000;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    border-radius: 0px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.img7{
+    width: 1000px;
+    margin-left: 00px;
+    
+}
+.protit7{
+    text-align: center;
+    font-size: 15px;
+}
+.prodes7{
+    text-align: center;
+}
+.propre7{
+    font-family:initial;
+    text-align: center;
+}
+
+.c8{
+    border: solid 3px #000000;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    border-radius: 0px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.img8{
+    width: 1000px;
+    margin-left: 00px;
+    
+}
+.protit8{
+    text-align: center;
+    font-size: 15px;
+}
+.prodes8{
+    text-align: center;
+}
+.propre8{
+    font-family:initial;
+    text-align: center;
+}
+
+.c9{
+    border: solid 3px #000000;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    border-radius: 0px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.img9{
+    width: 1000px;
+    margin-left: 00px;
+    
+}
+.protit9{
+    text-align: center;
+    font-size: 15px;
+}
+.prodes9{
+    text-align: center;
+}
+.propre9{
+    font-family:initial;
+    text-align: center;
+}
+
+.c10{
+    border: solid 3px #000000;
+    width: 300px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    border-radius: 0px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.img10{
+    width: 1000px;
+    margin-left: 00px;
+    
+}
+.protit10{
+    text-align: center;
+    font-size: 15px;
+}
+.prodes10{
+    text-align: center;
+}
+.propre10{
+    font-family:initial;
+    text-align: center;
+}
+
+/*RODAPÉ*/
+footer{
+    margin-top: 100px;
+    bottom: 0;
+    background-color: #000000;
+    color: #FFF;
+    width: 100%;
+    height: 100px;    
+}
+.textrod1{
+    text-align: center;
+    font-size: 23px;
+    margin-top: 50px;
+  }
+  .textrod2{
+    text-align: center;
+    font-size: 20px;
+  }
